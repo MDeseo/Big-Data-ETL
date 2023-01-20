@@ -49,6 +49,9 @@ For each dataset use the schema.sql file located in the Resources folder of the 
 Export each DataFrame into the RDS instance to create four tables for each dataset. Use PGAdmin to create the tables.
 
 
+From Google Colab, the files were downloaded as Jupyter notebook files.
+
+
 ### Reference:
 
 Amazon Customer Reviews Dataset. (n.d.). Retrieved 18 January 2023, from: https://s3.amazonaws.com/amazon-reviews-pds/readme.html
